@@ -1,2 +1,2 @@
 # Muscle-Training-Record
-my muscle training record
+Goal is to do 10 bench presses of 120kg
